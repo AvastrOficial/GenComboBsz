@@ -6,4 +6,4 @@ Esta una herramienta es para generar combos User : Password , pues esta herramie
 <br></br>
 > ejemplo este user tuene bloques de notas de muchos password : https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/100k-most-used-passwords-NCSC.txt
 <br></br>
-> usa el generador de password con la sintaxis de un json
+> usa el generador de password con la sintaxis de un json utilizaremos el la herramienta : https://replit.com/@StrAva1/generador-password-json?v=1
