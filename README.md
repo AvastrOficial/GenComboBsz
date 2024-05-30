@@ -16,5 +16,6 @@ Esta una herramienta es para generar combos User : Password , pues esta herramie
 > crea espesifico users con los @dominio utilizado en la emaildomains.json utilizado 
 # link de la herramienta para copilarlo web :
 https://replit.com/@StrAva1/gen-comboBSZ?v=1
+<br></br>
 ![image](https://github.com/AvastrOficial/GenComboBsz/assets/91764815/7a9e4222-4484-4869-87cd-a8f9f2872d31)
 
