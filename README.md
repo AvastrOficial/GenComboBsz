@@ -1,6 +1,7 @@
 # GenComboBsz
 Esta una herramienta es para generar combos User : Password , pues esta herramienta funciona para crear correos y password alatorios 
 ### Guia de funciones :
+![image](https://github.com/AvastrOficial/GenComboBsz/assets/91764815/e68c3570-df19-4cc0-9ce3-f94ffde90246)
 ### Paso 1 :
 > ocupas tener un bloque de notas de password para poder generar mas de 50,000 correos para descargar solo guardalo en un bloque .txt
 <br></br>
@@ -15,3 +16,5 @@ Esta una herramienta es para generar combos User : Password , pues esta herramie
 > crea espesifico users con los @dominio utilizado en la emaildomains.json utilizado 
 # link de la herramienta para copilarlo web :
 https://replit.com/@StrAva1/gen-comboBSZ?v=1
+![image](https://github.com/AvastrOficial/GenComboBsz/assets/91764815/7a9e4222-4484-4869-87cd-a8f9f2872d31)
+
