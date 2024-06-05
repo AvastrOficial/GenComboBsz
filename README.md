@@ -15,7 +15,7 @@ Esta una herramienta es para generar combos User : Password , pues esta herramie
 > video guia para que vean como tendrias que hacer para hacer funcional el codigo: https://files.catbox.moe/uofpnt.mp4 
 ### paso 3 :
 > podras limpiar el combo usando el Organizador email-password donde eliminara inperfeciones se puso un video tutorial de uso :
-
+https://github.com/AvastrOficial/GenComboBsz/tree/main/Organizador%20email-password
 ### Como funciona ?
 > Utilizamos el lenguaje GO , para generar user agts de un dominio en espesifico 
 > crea espesifico users con los @dominio utilizado en la emaildomains.json utilizado 
