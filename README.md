@@ -7,7 +7,8 @@ Esta una herramienta es para generar combos User : Password , pues esta herramie
 <br></br>
 > ejemplo este user tuene bloques de notas de muchos password : https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/100k-most-used-passwords-NCSC.txt
 <br></br>
-> usa el generador de password con la sintaxis de un json utilizaremos el la herramienta : https://replit.com/@StrAva1/generador-password-json?v=1
+> usa el generador de password con la sintaxis de un json utilizaremos el la herramienta : https://replit.com/@StrAva1/generador-password-json?v=1|
+> tambien puedes usar la herramienta para scrapear combos en el archivo hay un video explicativo 
 ### Paso 2 :
 > descarga el combo del resultado de json , luego lo pones en la herramienta generador lo replzas y corres el prgrama
 > video guia para que vean como tendrias que hacer para hacer funcional el codigo: https://files.catbox.moe/uofpnt.mp4 
